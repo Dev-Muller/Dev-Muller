@@ -27,8 +27,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
--I’m currently studying Fundamentas of a Dev.
--I’m currently learning at Trybe.
--You can contact me on my email: pedromullergl11@gmail.com
--Pronouns: ele/dele | he/him
