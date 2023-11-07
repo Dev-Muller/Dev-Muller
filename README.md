@@ -1,6 +1,6 @@
 ### Hi There👋
 
-I'm Pedro Müller, a passionate software developer and tech enthusiast. I currently in search of my first experience as a developer. </br>
+I'm Pedro Müller, a passionate software developer and tech enthusiast. I currently in search of improving my experience as a developer. </br>
 With 1 year of experience in the field, I've had the opportunity to study and work on various exciting projects and explore different technologies.
 
 # 💻 Tech Stack
